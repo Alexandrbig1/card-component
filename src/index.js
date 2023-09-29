@@ -20,9 +20,9 @@ function Avatar() {
 function Intro() {
   return (
     <div>
-      <h1>Alex S jr.</h1>
+      <h1>Alex Smagin</h1>
       <p>
-        Hi, I'm Alex S jr., a Front-end Web Developer with a passion for
+        Hi, I'm Alex Smagin, a Front-end Web Developer with a passion for
         creating elegant and responsive web applications!
       </p>
     </div>
@@ -41,6 +41,7 @@ function SkillList() {
       <Skill skill="TailWind" emoji="👍🏻" bgColor="#6741d9" />
       <Skill skill="Next.js" emoji="👍🏻" bgColor="#f76707" />
       <Skill skill="Node.js" emoji="👍🏻" bgColor="#099268" />
+      <Skill skill="TypeScript" emoji="👍🏻" bgColor="#1c7ece" />
     </div>
   );
 }
