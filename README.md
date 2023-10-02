@@ -7,7 +7,7 @@ React component card for profile with pictures, name, intro and skills.
 
 ### Practicing while studying on [Udemy learning courses](https://www.udemy.com/) <img style="margin: 10px" src="https://findlogovector.com/wp-content/uploads/2022/04/udemy-logo-vector-2022.png" alt="HTML5" height="30" />
 
-## Languages and Tools:
+### Languages and Tools:
 <div align="center">  
  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
@@ -17,7 +17,7 @@ React component card for profile with pictures, name, intro and skills.
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </div>
 
-## Connect with me:  
+### Connect with me:  
 <div align="center">
 <a href="https://linkedin.com/in/alex-smagin29" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
